@@ -1,2 +1,5 @@
 Hola Mundo con GIT !!
 holii
+COLABORADOR: TANIA CACUANGO
+PREGUNTAS:
+¿Qué diferencia existe entre git pull y git fetch?
