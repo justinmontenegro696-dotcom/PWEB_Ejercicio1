@@ -14,3 +14,7 @@ git pull = Descarga los cambios y los mezcla automáticamente con tu rama actual
 El comando git clone sirve para copiar un repositorio remoto completo (por ejemplo, de GitHub) a tu computadora.
 
 ¿Qué hace el comando git branch nombre_rama?
+
+El comando git branch nombre_rama crea una nueva rama en tu repositorio con el nombre que tu le indiques.
+
+¿Qué comando se usa para cambiar de una rama a otra?
