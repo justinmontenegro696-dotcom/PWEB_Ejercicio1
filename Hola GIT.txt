@@ -1,1 +1,7 @@
 Hola Mundo con GIT !!
+holii
+COLABORADOR: TANIA CACUANGO
+PREGUNTAS:
+¿Qué diferencia existe entre git pull y git fetch?
+git fetch = Descarga los cambios del remoto sin mezclarlos con tu trabajo.
+git pull = Descarga los cambios y los mezcla automáticamente con tu rama actual.
